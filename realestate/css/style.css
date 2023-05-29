@@ -35,6 +35,9 @@
 body {
   overflow-x: hidden;
 }
+img {
+  height: unset !important;
+}
 .wrapper {
   margin-left: 0;
   display: block;
